@@ -1,0 +1,127 @@
+{
+  "product": [
+    {
+      "name": "Khẩu trang ý tế An Phú",
+      "stock": 30,
+      "price": 19000,
+      "sold": 0,
+      "imgs": [
+        "https://cf.shopee.vn/file/cfd4c5f10b1a30c34f5380040d843516_tn",
+        "https://cf.shopee.vn/file/93fbb118143c550dedc9cea9a82705c0",
+      
+      ],
+      "reviews": [
+      ],
+      
+    },
+    {
+      "name": "Băng cuốn khớp chống chấn thương",
+      "stock": 2000,
+      "price": 9000,
+      "sold": 1000,
+      "imgs": [
+        "https://cf.shopee.vn/file/e330200d12f5d9a710dfa137c117685d_tn",
+        "https://cf.shopee.vn/file/223c598ba7122b950ac74e5825e32fd3_tn",
+        "https://cf.shopee.vn/file/223c598ba7122b950ac74e5825e32fd3_tn",
+      
+      ],
+      "reviews": [
+        {
+          "user": "hoangphuctinh",
+          "reviewBody": "Sp đẹp tốt đáng đồng tiền bỏ giày vào vừa đáng mua nhieu hâp dẫn lem",
+          "rate": 4.5,
+        },
+        {
+          "user": "haiha1102",
+          "reviewBody": "Hàng ok",
+          "rate": 5,
+        },
+        {
+          "user": "buianhthuong28",
+          "reviewBody": "Hàng nhái, chất lượng k tốt lắm",
+          "rate": 3,
+        },
+      ],
+    },
+    {
+      "name": "Tăm bông y tế",
+      "stock": 100,
+      "price": 15000,
+      "sold": 329,
+      "imgs": [
+        "https://cf.shopee.vn/file/77af4323589bc2c51dadc8c12c2ca09f_tn",
+        "https://cf.shopee.vn/file/93f45c239f821465ce7f9a183c932bda",
+      ],
+      "reviews": [
+        {
+          "user": "toitubietyeubanthan",
+          "reviewBody": "chất lượng sản phẩm tốt nhất không có gì đáng phải phàn nàn về chất lượng sản phẩm tốt nhất",
+          "rate": 5,
+        },
+        {
+          "user": "satsat1109",
+          "reviewBody": "Ko giống như mô tả",
+          "rate": 2,
+        },
+      ],
+    },
+    {
+      "name": "Bông y tế 5g",
+      "stock": 100,
+      "price": 1900,
+      "sold": 769,
+      "imgs": [
+        "https://cf.shopee.vn/file/97d766bb3161ab80cca99e4394ef244e_tn"
+      ],
+      "reviews": [
+        {
+          "user": "toalamdong",
+          "reviewBody": "Túi tiện lợi khi dùng. Giá hợp lí. Gửi hàng quá nhanh. Nhưng phí hơi cao",
+          "rate": 5,
+        },
+        {
+          "user": "aithulam1999",
+          "reviewBody": "Sản phẩm bì bông hơi nhỏ. Các bạn mua ở tiệm thuốc tây sẽ OK hơn mua shop",
+          "rate": 4,
+        },
+      ],
+    },
+    {
+      "name": "Set bộ quần áo bảo hộ y tế",
+      "stock": 1000,
+      "price": 19000,
+      "sold": 2000,
+      "imgs": [
+        "https://cf.shopee.vn/file/0489603b3ffdb3f6cc33f15b6e264873_tn",
+        "https://cf.shopee.vn/file/8e8bf298ec8d6781fe86452ddee457f5",
+        "https://cf.shopee.vn/file/4192b3b675494fc89b8bb790649c3f92",
+      ],
+      "reviews": [
+        {
+          "user": "nguyen_mai99",
+          "reviewBody": "Giao hàng nhanh, giá rẻ chất lượng tốt",
+          "rate": 5,
+        },
+        {
+          "user": "zaqmlpxcvbn",
+          "reviewBody": "Nhân viên tư vấn cực kì nhiệt tình. Shop giao hàng nhanh. Thấy sp hơi mỏng, nhưng so vs giá thì khá OK",
+          "rate": 5,
+        },
+        {
+          "user": "tranv399",
+          "reviewBody": "Set đồ oki, vải ko quá mỏng, giá phải chăng đóng gói sp cũng khá kỹ",
+          "rate": 5,
+        },
+      ],
+    },
+  ],
+  
+  "shopInfo": {
+    "name": "dautrau_foods",
+    "review": 386,
+    "description": "Shop chuyên cung cấp các mặt hàng thực phẩm:đặc sản vùng miền,hải sản tươi sống... 100% các sản phẩm Shop cung cấp ra thị trường đều đảm bảo các yếu tố. Đạt tiêu chuẩn Vệ Sinh An Toàn Thực Phẩm. Có nguồn gốc xuất xứ rõ ràng. Không chất bảo quản,không phẩm màu",
+    "phone": "0979950600",
+    "website": "dacsantop1.com",
+    "address": "183A/17 Lĩnh Nam,Hoàng Mai,Hà Nội",
+  },
+}
